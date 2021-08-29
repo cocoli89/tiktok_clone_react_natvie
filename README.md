@@ -41,10 +41,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizpaulogroup/react-native-spotify
+$ git clone https://github.com/cocoli89/tiktok_clone_react_natvie.git
 
 # Go into the repository
-$ cd react-native-spotify
+$ cd tiktok_clone_react_natvie
 
 # Install dependencies
 $ yarn install
@@ -59,4 +59,4 @@ $ react-native run-android
 
 ---
 
-Made with ♥ by Luiz Paulo :wave: [Get in touch!](https://www.linkedin.com/in/luizpaulogroup/)
+Made with ♥ by Cocoli :wave: [Get in touch!](https://github.com/cocoli89)
